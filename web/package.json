@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "Package": "0.0.1",
-    "ajv": "6.5.2",
+    "ajv": "6.12.3",
     "autoprefixer": "9.1.0",
     "babel-cli": "6.26.0",
     "babel-plugin-react-display-name": "2.0.0",
